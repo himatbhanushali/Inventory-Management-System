@@ -1,0 +1,523 @@
+D:\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+D:\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+D:\Billing System\Billing System\obj\Debug\Billing System.exe
+D:\Billing System\Billing System\obj\Debug\Billing System.pdb
+D:\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing System.exe
+C:\Himat\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Himat\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Himat\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Himat\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.BillInput.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.Invoice.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+C:\Himat\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.BillInput.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+D:\Billing System\Billing System\obj\Debug\Billing_System.Invoice.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing System.exe
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+C:\Himat\Billing System 1.1\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+C:\Himat\Billing System 1.1\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Himat\Billing System 1.1\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing System.exe
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing System.pdb
+D:\Billing System 1.2\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Billing System 1.2\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+D:\Billing System 1.2\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.exe
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.pdb
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.exe
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.pdb
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+X:\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.exe
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.pdb
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.application
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+D:\Billing System 1.6\Billing System 1.5\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.application
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.exe
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.pdb
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.application
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.exe
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\bin\Debug\Billing System.pdb
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+X:\Final Work on Billing System\Final Work on Billing System\Billing System\Billing System\obj\Debug\Billing System.application
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.exe
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.pdb
+D:\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+D:\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.application
+D:\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+D:\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.application
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.exe
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.pdb
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.application
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.exe
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\bin\Debug\Billing System.pdb
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.7\Billing System\Billing System\obj\Debug\Billing System.application
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.exe
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.pdb
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.application
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.exe
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.pdb
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+X:\One last tym sandesh\One last tym sandesh\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.application
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.exe
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.pdb
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.application
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\ResolveAssemblyReference.cache
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Add_Party.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.AddPurchase.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.AddSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Bill.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeleteItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeleteParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeletePurchase.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.DeleteSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditPurchase.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.EditSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.InputBill.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.LoginForm.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditPurchase.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreEditSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreSingleItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreViewSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreviewSingleParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PreViewSinglePurchse.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportAll.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.PurchaseReportParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.Report.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.SalesReportAll.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewAllItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewAllParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewAllSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewFullParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseByParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseDay.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewPurchaseMonth.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleItem.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleParty.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSinglePurchaseEntry.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing_System.ViewSingleSales.resources
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+D:\Billing System 1.9\Billing System 1.8\Billing System\Billing System\obj\Debug\Billing System.application

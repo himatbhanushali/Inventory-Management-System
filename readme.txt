@@ -1,0 +1,1 @@
+Inventory Management System is C# based application developed for small scale gwellery manufacturing firm to manage their Inventory , generate bills , generate reports, etc. MS ACCESS is used as back-end for the application.
