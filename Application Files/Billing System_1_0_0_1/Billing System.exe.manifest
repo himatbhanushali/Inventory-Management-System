@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Billing System.exe" version="1.0.0.1" publicKeyToken="7d832f024d1b7388" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Billing System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Billing System.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Billing System.exe" size="193024">
+      <assemblyIdentity name="Billing System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3VLfRPIFh3c9AQbrGn15j3aKxi8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Killer-PC\Administrator" issuerKeyHash="a564775427751157865fc913a72b9e8d2c7405af" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>jK9gjAUgjQe1MqRmzHgx/f6Of7g=</DigestValue></Reference></SignedInfo><SignatureValue>Hc6EfbQ/0I4h66zMx7PtbCrIXr6wE+r0E4oAt2WkMgndg+ljG0hYOoGmzMuvoH+ajwbRhr/eDW3u1WYQlujLlqYM0ebNMH37BCmouc0V8l6jrBiPaQURtK6SZj8j9tmCOmQTHp9PROtNQ6/h/p7OH/TRsqszS8T99ON8uLao568=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qy1iJ50eQcsUPoAAMrSGhgtDLHA0fdLUDte/e7bneJXwkizg9M7Ji0jn6ry4Hmx46tjB0t7YQLuVBDi3amB2VCgVIZBTzu1l5d+VXb6XVrYrunnUZGjhB4Ha4LUy8DP4B/UZKyU5hGJRFiJZa5Sbdgw4eIzB8ADtD1IG6X+11Qk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b87f8efefd3178cc66a432b5078d20058c60af8c" Description="" Url=""><as:assemblyIdentity name="Billing System.exe" version="1.0.0.1" publicKeyToken="7d832f024d1b7388" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Killer-PC\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iSuBMavIUkRCx2UPCsKWcJPRXdM=</DigestValue></Reference></SignedInfo><SignatureValue>EQ1FKCwINX0BTYW5xmniLaeXnwwDyCrBS7Abo+vGYXt1MBpTjujRIY56+YYFzL6dNPX1sRHlLYr3gRRL37BSR5hl50MRwxz/rz71GEbfdafzniQtxE5Us+5R3m4mebopU6+9eq9x0Y+rXcN1iWkhB1cP8QPqWMJuOM5FkIvohC4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qy1iJ50eQcsUPoAAMrSGhgtDLHA0fdLUDte/e7bneJXwkizg9M7Ji0jn6ry4Hmx46tjB0t7YQLuVBDi3amB2VCgVIZBTzu1l5d+VXb6XVrYrunnUZGjhB4Ha4LUy8DP4B/UZKyU5hGJRFiJZa5Sbdgw4eIzB8ADtD1IG6X+11Qk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQUscICuHmRLBCAWyyP8WEpTANBgkqhkiG9w0BAQUFADA5MTcwNQYDVQQDHi4ASwBpAGwAbABlAHIALQBQAEMAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTE1MDIyNDE2MjIzOFoXDTE2MDIyNDIyMjIzOFowOTE3MDUGA1UEAx4uAEsAaQBsAGwAZQByAC0AUABDAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqy1iJ50eQcsUPoAAMrSGhgtDLHA0fdLUDte/e7bneJXwkizg9M7Ji0jn6ry4Hmx46tjB0t7YQLuVBDi3amB2VCgVIZBTzu1l5d+VXb6XVrYrunnUZGjhB4Ha4LUy8DP4B/UZKyU5hGJRFiJZa5Sbdgw4eIzB8ADtD1IG6X+11QkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBq7BNXZyic1CC96OuUl8GJZMdlPhCay4ooLz3LMxC2EvYPU2e2Lqjt5ng96f1BgohQy7jvWlrF6bQ1A/SG7HoG90Ew9zwX9KNUthaz667UG9naMo+BWUX53xqdParyuxuMfz4gTKCcRm/mddgL3yrwrDcxgkvmLtFSMxjV6D9F5w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
